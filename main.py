@@ -4,7 +4,7 @@ username = "emre"
 user = input("kullanıcı:")
 passd = input("parola:")
 
-if username and pasword == user and passd:
+if username == user and pasword == passd:
   print("giriş başarılı ")
   
 else:
